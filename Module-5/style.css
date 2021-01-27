@@ -1,0 +1,34 @@
+h1, p.center {
+    text-align: center;
+}
+p.red {
+    color: red;
+}
+p.blue {
+    color: blue;
+}
+p.green {
+    color: green;
+}
+p.large {
+    font-size: 500%;
+}
+p.tiny {
+    font-size: 20%;
+}
+p.thick {
+    font-weight: bold;
+}
+p.fancy {
+    font-family: papyrus, copperplate, fantasy;
+}
+p.combo {
+    font-size: 300%;
+    color: orange;
+    font-weight: bold;
+}
+p.styledFont {
+    color: dodgerblue;
+    font-size: 69%;
+    font-family: georgia, garamond, serif;
+}
